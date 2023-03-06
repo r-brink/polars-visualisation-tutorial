@@ -1,0 +1,5 @@
+altair==4.2.2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+polars==0.16.11
+seaborn==0.12.2
