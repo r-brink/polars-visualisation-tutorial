@@ -1,5 +1,7 @@
-altair==4.2.2
-matplotlib==3.7.1
+altair==5.1.1
+matplotlib==3.8.0
 matplotlib-inline==0.1.6
-polars==0.16.11
+numpy==1.26.0
+pandas==2.1.0
+polars==0.19.3
 seaborn==0.12.2
